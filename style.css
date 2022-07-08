@@ -1,0 +1,11 @@
+/* 줄 바꿈을 삭제하여 CSS 코드를 한 줄로 이어붙임으로써 용량을 줄이기도 함 */
+h2 {
+    color:red;
+}
+.highlight {
+    border:solid;
+}
+#profile {
+    border:solid;
+    border-color:blue;
+}
